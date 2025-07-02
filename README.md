@@ -1,4 +1,4 @@
-`## Hi👋, I'm Ben Kau`
+<h1 align="center" dir="auto">Hi 👋, I'm Ben Kau</h1>
 
 - 📫 How to reach me: bennnk01@gmail.com
 
